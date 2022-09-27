@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from engine import Engine
 from battery import Battery
 
@@ -25,4 +26,4 @@ class Car(ABC):
     @abstractmethod
     def needs_service(self):
         pass
->>>>>>>origin
+>>>>>>> origin
